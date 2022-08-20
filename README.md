@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<div>
+<img height="48%" src="https://github-readme-stats.vercel.app/api?username=fojacob"/>
+<img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fojacob"/>
+</div>
 <!--
 **fojacob/fojacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
